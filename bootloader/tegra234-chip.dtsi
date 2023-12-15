@@ -1,0 +1,6 @@
+#include "tegra234-firewall-config-base.dtsi"
+
+/ {
+    tfc {
+    };
+};
